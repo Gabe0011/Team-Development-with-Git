@@ -2,7 +2,7 @@
 
 ## [Watch it on YouTube](https://youtu.be/kkorXiCKhAY)
 
-## Also work on both landscape and portrait mood
+## Main goal for our tema is to create an app that takes a list of ingredients and generates a recipe. 
 
 **Packages we are using:**
 
@@ -10,11 +10,3 @@
 - provider: [link](https://pub.dev/packages/provider)
 
 Try to create a Recepie App, Which includes almost all impotant pages like Home page, recipe bundel page then list of recipes also profile page and many more.
-
-### Furniture App Final UI
-
-![Preview](part_1.gif)
-
-## Part 1
-
-![App UI](/ui.png)
