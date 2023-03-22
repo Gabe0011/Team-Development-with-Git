@@ -2,7 +2,7 @@
 
 ## [Watch it on YouTube](https://youtu.be/kkorXiCKhAY)
 
-## Main goal for our tema is to create an app that takes a list of ingredients and generates a recipe. 
+## Main goal for our team is to create an app that takes a list of ingredients and generates a recipe. 
 
 **Packages we are using:**
 
